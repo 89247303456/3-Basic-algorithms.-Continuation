@@ -1,0 +1,5 @@
+D:\git-code\3 Basic algorithms. Continuation\Task 23\obj\Debug\net6.0\Task 23.csproj.AssemblyReference.cache
+D:\git-code\3 Basic algorithms. Continuation\Task 23\obj\Debug\net6.0\Task 23.GeneratedMSBuildEditorConfig.editorconfig
+D:\git-code\3 Basic algorithms. Continuation\Task 23\obj\Debug\net6.0\Task 23.AssemblyInfoInputs.cache
+D:\git-code\3 Basic algorithms. Continuation\Task 23\obj\Debug\net6.0\Task 23.AssemblyInfo.cs
+D:\git-code\3 Basic algorithms. Continuation\Task 23\obj\Debug\net6.0\Task 23.csproj.CoreCompileInputs.cache
